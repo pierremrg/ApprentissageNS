@@ -1,0 +1,17 @@
+non convexe/bien séparés/densités similaires/pas de bruit
+https://github.com/deric/clustering-benchmark/blob/master/src/main/resources/datasets/artificial/banana.arff
+
+convexe/bien séparés/densités similaires/non bruité
+https://github.com/deric/clustering-benchmark/blob/master/src/main/resources/datasets/artificial/aggregation.arff
+
+FAIT non convexe/bien séparés/densités similaires/non bruité
+https://github.com/deric/clustering-benchmark/blob/master/src/main/resources/datasets/artificial/3-spiral.arff
+
+FAIT convexe/bien séparés/densités non similaires/bruité
+https://github.com/deric/clustering-benchmark/blob/master/src/main/resources/datasets/artificial/cure-t2-4k.arff
+
+FAIT convexe/bien séparés/densités similaires/non bruité
+https://github.com/deric/clustering-benchmark/blob/master/src/main/resources/datasets/artificial/diamond9.arff
+
+FAIT convexe/non séparés/densités non similaires/pas de bruit
+https://github.com/deric/clustering-benchmark/blob/master/src/main/resources/datasets/artificial/elly-2d10c13s.arff
